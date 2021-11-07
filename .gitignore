@@ -6,3 +6,8 @@
 
 # Compiled Pre-Linked Libraries
 *.plx
+
+# Local project files
+BDBT_Kaczkowski_Berentowicz.txj
+BDBT_Berentowicz_Kaczkowski.txj
+*.txj
